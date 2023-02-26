@@ -1,0 +1,6 @@
+U ovom projektu smo napravili dizajn patenta koji može pomoći u spriječavanjima požara.
+Glavni funkcionalni djelovi se mogu nabaviti na internetu.
+Dizajnirali smo ga na osnovu vec postoječih tehnologija.
+Za sami dizajn smo koristili Firealpacu, program za digitalno slikanje,
+a za website i aplikaciju smo koristili programske jezike Java Script i HTML.
+Može se koristiti za zaštitu imovine na suhim područjima niskih trava.
